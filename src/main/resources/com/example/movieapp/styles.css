@@ -1,0 +1,13 @@
+.text-yellow {
+    -fx-text-fill: F5C518;
+}
+
+.text-white {
+    -fx-text-fill: white;
+}
+
+#anchorPane {
+    -fx-background-color: rgba(0, 0, 0, 0.9);
+;
+}
+
